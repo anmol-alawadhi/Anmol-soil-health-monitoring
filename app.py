@@ -7,7 +7,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import r2_score, mean_absolute_error
 import plotly.express as px
 
-st.set_page_config(page_title="Soil Health Monitoring (IoT + ML)", page_icon="🌱", layout="wide")
+st.set_page_config(page_title="Anmol Soil Health Monitoring (IoT + ML)", page_icon="🌱", layout="wide")
 
 st.title("🌱 Soil Health Monitoring Dashboard")
 st.write("Upload sensor data or use sample data to predict soil moisture and visualize trends.")
