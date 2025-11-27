@@ -9,7 +9,7 @@ import plotly.express as px
 
 st.set_page_config(page_title="Anmol Soil Health Monitoring (IoT + ML)", page_icon="🌱", layout="wide")
 
-st.title("🌱 Soil Health Monitoring Dashboard")
+st.title("🌱 Anmol Soil Health Monitoring Dashboard")
 st.write("Upload sensor data or use sample data to predict soil moisture and visualize trends.")
 
 @st.cache_data
